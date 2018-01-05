@@ -41,7 +41,7 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "Usamos cookies para ofrecerle una mejor experiencia. Lea nuestra <a href='privacy.html'>política de cookies</a>."
   },
   "pages": {
     "index.html": {
