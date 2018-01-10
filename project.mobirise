@@ -5353,48 +5353,48 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "text_all": "All",
+            "text_all": "Todas",
             "gallery__filtersTextStyle": "display-4",
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Animated",
+                "tags": "Piso Tipo",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/axma1y6-2000x1181-800x472.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/axma1y6-2000x1181-800x472-800x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/axma1y6-2000x1181.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/axma1y6-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Apartamento Tipo 01 | 06",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Piso Tipo",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/axma2y7-2000x1181-800x472.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/axma2y7-2000x1181-800x472-800x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/axma2y7-2000x1181.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/axma2y7-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Apartamento Tipo 02 | 07",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Piso Tipo",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/axma3y5-2000x1181-800x472.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/axma3y5-2000x1181-800x472-800x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/axma3y5-2000x1181.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/axma3y5-2000x1181-800x472.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Apartamento Tipo 03 | 05",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Piso Tipo",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5406,7 +5406,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Pent House",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5415,10 +5415,10 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Pent House 01 | 04 Piso 1",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Animated",
+                "tags": "Pent House",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5430,7 +5430,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Pent House",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5442,7 +5442,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Pent House",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5451,7 +5451,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Pent House 02 | 03 Piso 2",
-                "active": true
+                "active": false
               }
             ]
           }
