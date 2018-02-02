@@ -5647,6 +5647,42 @@ body {
 .cid-qG1jTPDIak .mbr-text DIV {
   text-align: center;
 }
+.cid-qIx8x46l3O {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qIx8x46l3O .counter-container {
+  color: #767676;
+}
+.cid-qIx8x46l3O .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-qIx8x46l3O .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-qIx8x46l3O .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #ff7f9f;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-qIx8x46l3O .mbr-text DIV {
+  text-align: center;
+}
 .cid-qCp6wsiLdS {
   padding-top: 30px;
   padding-bottom: 30px;
